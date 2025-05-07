@@ -1,0 +1,14 @@
+data/
+build/
+pointcloud*.pcd
+pointcloud*
+filtered_combined_cloud.pcd
+DICOM_dataInfo.odt
+combined_cloud.pcd
+.vscode
+.cache
+pcd_analysis_cc/
+cropped.pcd
+filtered_combined_cloud*.vtk
+results/
+notebook.ipynb
